@@ -18,18 +18,18 @@ namespace WinFormsApp1
            
             if (numeroSecretoSorteado == "Resultado")
             {
-                lbResultado.Text = numeroSecretoSorteado.ToString();
-                numeroSecretoSorteado = numeroSecretoSorteado.ToString();
+                lbResultado.Text = numeroSorteado.ToString();
+                numeroSecretoSorteado = numeroSorteado.ToString();
                 lbResultado.Visible = false;
             }
           
             // etapa 2 - pegar valor do usuario e validar se é igual ao número sorteado
             if (numeroSecretoSorteado == numeroDigitadoUsuario)
             {
-                MessageBox.Show("Parabéns você ganhou!! ");
+                MessageBox.Show("Parabéns você ganhou!!");
             }
             // etapa 3 - validar se o número é maior que o número sorteado
-            if (int.Parse(numeroDigitadoUsuario) > int.Parse(numeroDigitadoUsuario))
+            if (int.Parse(numeroDigitadoUsuario) > int.Parse(numeroSecretoSorteado))
             {
                 MessageBox.Show("O número que você digitou é MAIOR que o valor secreto");
             }

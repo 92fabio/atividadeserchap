@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85D73687-6742-4ACD-B3EB-74E14B3916BA}|atividade 12-03-26\\atividade 12-03-26.csproj|c:\\users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D73687-6742-4ACD-B3EB-74E14B3916BA}|atividade 12-03-26\\atividade 12-03-26.csproj|solutionrelative:atividade 12-03-26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D73687-6742-4ACD-B3EB-74E14B3916BA}|atividade 12-03-26\\atividade 12-03-26.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85D73687-6742-4ACD-B3EB-74E14B3916BA}|atividade 12-03-26\\atividade 12-03-26.csproj|solutionrelative:atividade 12-03-26\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\Form1.cs",
+              "RelativeDocumentMoniker": "atividade 12-03-26\\Form1.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\Form1.cs",
+              "RelativeToolTip": "atividade 12-03-26\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:57:00.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\Form1.cs",
+              "RelativeDocumentMoniker": "atividade 12-03-26\\Form1.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\atividade 12-03-26\\atividade 12-03-26\\Form1.cs [Design]",
+              "RelativeToolTip": "atividade 12-03-26\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T22:45:31.312Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

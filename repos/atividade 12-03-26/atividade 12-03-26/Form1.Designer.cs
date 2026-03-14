@@ -39,7 +39,7 @@
             this.txtCampo2 = new System.Windows.Forms.TextBox();
             this.txtCampo3 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
+            this.txtCampo1 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
@@ -89,6 +89,7 @@
             this.btnLeiaLetra.TabIndex = 4;
             this.btnLeiaLetra.Text = "Leia Letra";
             this.btnLeiaLetra.UseVisualStyleBackColor = true;
+            this.btnLeiaLetra.Click += new System.EventHandler(this.btnLeiaLetra_Click);
             // 
             // button4
             // 
@@ -98,6 +99,7 @@
             this.button4.TabIndex = 5;
             this.button4.Text = "Leia Dias";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
@@ -119,14 +121,14 @@
             // 
             // txtCampo2
             // 
-            this.txtCampo2.Location = new System.Drawing.Point(477, 123);
+            this.txtCampo2.Location = new System.Drawing.Point(477, 164);
             this.txtCampo2.Name = "txtCampo2";
             this.txtCampo2.Size = new System.Drawing.Size(125, 20);
             this.txtCampo2.TabIndex = 8;
             // 
             // txtCampo3
             // 
-            this.txtCampo3.Location = new System.Drawing.Point(477, 159);
+            this.txtCampo3.Location = new System.Drawing.Point(477, 190);
             this.txtCampo3.Name = "txtCampo3";
             this.txtCampo3.Size = new System.Drawing.Size(125, 20);
             this.txtCampo3.TabIndex = 9;
@@ -141,14 +143,14 @@
             this.label1.Text = "2° Número";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label2
+            // txtCampo1
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(414, 126);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(57, 13);
-            this.label2.TabIndex = 11;
-            this.label2.Text = "1° Número";
+            this.txtCampo1.AutoSize = true;
+            this.txtCampo1.Location = new System.Drawing.Point(414, 134);
+            this.txtCampo1.Name = "txtCampo1";
+            this.txtCampo1.Size = new System.Drawing.Size(57, 13);
+            this.txtCampo1.TabIndex = 11;
+            this.txtCampo1.Text = "1° Número";
             // 
             // label3
             // 
@@ -162,7 +164,7 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(477, 190);
+            this.textBox1.Location = new System.Drawing.Point(477, 134);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(125, 20);
             this.textBox1.TabIndex = 13;
@@ -174,7 +176,7 @@
             this.ClientSize = new System.Drawing.Size(800, 497);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
+            this.Controls.Add(this.txtCampo1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtCampo3);
             this.Controls.Add(this.txtCampo2);
@@ -207,7 +209,7 @@
         private System.Windows.Forms.TextBox txtCampo2;
         private System.Windows.Forms.TextBox txtCampo3;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label txtCampo1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox textBox1;
     }

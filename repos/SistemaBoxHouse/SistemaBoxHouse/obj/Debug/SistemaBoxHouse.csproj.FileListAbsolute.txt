@@ -1,0 +1,10 @@
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\bin\Debug\SistemaBoxHouse.exe.config
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\bin\Debug\SistemaBoxHouse.exe
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\bin\Debug\SistemaBoxHouse.pdb
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.csproj.AssemblyReference.cache
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.Form1.resources
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.Properties.Resources.resources
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.csproj.GenerateResource.cache
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.csproj.CoreCompileInputs.cache
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.exe
+C:\Users\fabio.foliveira17\source\repos\SistemaBoxHouse\SistemaBoxHouse\obj\Debug\SistemaBoxHouse.pdb

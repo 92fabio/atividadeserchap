@@ -1,0 +1,11 @@
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\bin\Debug\Sistema-BoxHouse.exe.config
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\bin\Debug\Sistema-BoxHouse.exe
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\bin\Debug\Sistema-BoxHouse.pdb
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.csproj.AssemblyReference.cache
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema_BoxHouse.FormClientes.resources
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema_BoxHouse.Form1.resources
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema_BoxHouse.Properties.Resources.resources
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.csproj.GenerateResource.cache
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.csproj.CoreCompileInputs.cache
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.exe
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.pdb

@@ -9,3 +9,5 @@ C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\De
 C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.csproj.CoreCompileInputs.cache
 C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.exe
 C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema-BoxHouse.pdb
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema_BoxHouse.Form_Entrega.resources
+C:\Users\fabio.foliveira17\source\repos\Sistema-BoxHouse\Sistema-BoxHouse\obj\Debug\Sistema_BoxHouse.Form_Venda.resources

@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form Entrega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Entrega.Designer.cs">
+      <DependentUpon>Form Entrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form Venda.Designer.cs">
+      <DependentUpon>Form Venda.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTelaprincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -58,8 +70,15 @@
     <Compile Include="FormClientes.Designer.cs">
       <DependentUpon>FormClientes.cs</DependentUpon>
     </Compile>
+    <Compile Include="Produtos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form Entrega.resx">
+      <DependentUpon>Form Entrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form Venda.resx">
+      <DependentUpon>Form Venda.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormClientes.resx">
       <DependentUpon>FormClientes.cs</DependentUpon>
     </EmbeddedResource>

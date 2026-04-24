@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace Sistema_BoxHouse
 {
-    public partial class Form1 : Form
+    public partial class Form_Entrega : Form
     {
-        public Form1()
+        public Form_Entrega()
         {
             InitializeComponent();
-        }
-
-        private void btnVendas_Click(object sender, EventArgs e)
-        {
-            Form_Venda formvenda = new Form_Venda();
-            formvenda.ShowDialog();
         }
     }
 }

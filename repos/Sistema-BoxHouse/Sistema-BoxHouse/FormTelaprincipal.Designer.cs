@@ -43,6 +43,7 @@
             this.btnVendas.TabIndex = 0;
             this.btnVendas.Text = "VENDAS";
             this.btnVendas.UseVisualStyleBackColor = true;
+            this.btnVendas.Click += new System.EventHandler(this.btnVendas_Click);
             // 
             // btnCadastrar
             // 

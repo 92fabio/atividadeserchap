@@ -34,12 +34,12 @@
             this.btnSalvar = new System.Windows.Forms.Button();
             this.textNomePet = new System.Windows.Forms.TextBox();
             this.textTelefone = new System.Windows.Forms.TextBox();
+            this.textNome = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.textNome = new System.Windows.Forms.TextBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -92,6 +92,7 @@
             this.btnSalvar.TabIndex = 6;
             this.btnSalvar.Text = "Salvar Cliente";
             this.btnSalvar.UseVisualStyleBackColor = true;
+            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
             // 
             // textNomePet
             // 
@@ -109,6 +110,14 @@
             this.textTelefone.Size = new System.Drawing.Size(187, 26);
             this.textTelefone.TabIndex = 4;
             this.textTelefone.Text = "(___) ________-________";
+            // 
+            // textNome
+            // 
+            this.textNome.Font = new System.Drawing.Font("Ebrima", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textNome.Location = new System.Drawing.Point(150, 27);
+            this.textNome.Name = "textNome";
+            this.textNome.Size = new System.Drawing.Size(506, 29);
+            this.textNome.TabIndex = 3;
             // 
             // label3
             // 
@@ -158,14 +167,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(690, 205);
             this.dataGridView1.TabIndex = 0;
-            // 
-            // textNome
-            // 
-            this.textNome.Font = new System.Drawing.Font("Ebrima", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textNome.Location = new System.Drawing.Point(150, 27);
-            this.textNome.Name = "textNome";
-            this.textNome.Size = new System.Drawing.Size(506, 29);
-            this.textNome.TabIndex = 3;
             // 
             // FormClientes
             // 

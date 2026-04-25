@@ -22,5 +22,11 @@ namespace Sistema_BoxHouse
             Form_Venda formvenda = new Form_Venda();
             formvenda.ShowDialog();
         }
+
+        private void btnCadastrar_Click(object sender, EventArgs e)
+        {
+            FormClientes formecliente = new FormClientes();
+            formecliente.ShowDialog();
+        }
     }
 }

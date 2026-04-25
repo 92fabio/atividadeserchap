@@ -3,32 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|c:\\users\\fabio.foliveira17\\source\\repos\\sistema-boxhouse\\sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormTelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:Sistema-BoxHouse\\FormTelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|c:\\users\\fabio.foliveira17\\source\\repos\\sistema-boxhouse\\sistema-boxhouse\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormTelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:Sistema-BoxHouse\\FormTelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\formtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\formtelaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\form entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|c:\\users\\fabio.foliveira17\\source\\repos\\sistema-boxhouse\\sistema-boxhouse\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|c:\\users\\fabio.foliveira17\\source\\repos\\sistema-boxhouse\\sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\sistema-boxhouse\\form entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDFE4F20-DC53-41F6-8D00-38D1C95771DA}|Sistema-BoxHouse\\Sistema-BoxHouse.csproj|solutionrelative:sistema-boxhouse\\form entrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,32 +46,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "FormTelaprincipal.cs",
               "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormTelaprincipal.cs",
               "RelativeDocumentMoniker": "Sistema-BoxHouse\\FormTelaprincipal.cs",
               "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormTelaprincipal.cs",
               "RelativeToolTip": "Sistema-BoxHouse\\FormTelaprincipal.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAnwBYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-11T00:41:12.503Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form Venda.cs",
-              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs",
-              "RelativeDocumentMoniker": "Sistema-BoxHouse\\Form Venda.cs",
-              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs",
-              "RelativeToolTip": "Sistema-BoxHouse\\Form Venda.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCkAAABDAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema-BoxHouse\\Cliente.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Cliente.cs",
+              "RelativeToolTip": "Sistema-BoxHouse\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:21:19.675Z",
+              "WhenOpened": "2026-04-24T22:33:18.404Z",
               "EditorCaption": ""
             },
             {
@@ -74,20 +83,22 @@
               "RelativeDocumentMoniker": "Sistema-BoxHouse\\Produtos.cs",
               "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Produtos.cs",
               "RelativeToolTip": "Sistema-BoxHouse\\Produtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:10:45.02Z"
+              "WhenOpened": "2026-04-24T00:10:45.02Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Form Venda.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs",
               "RelativeDocumentMoniker": "Sistema-BoxHouse\\Form Venda.cs",
               "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs [Design]",
               "RelativeToolTip": "Sistema-BoxHouse\\Form Venda.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T22:49:55.827Z"
+              "WhenOpened": "2026-04-23T22:49:55.827Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -98,29 +109,58 @@
               "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormTelaprincipal.cs [Design]",
               "RelativeToolTip": "Sistema-BoxHouse\\FormTelaprincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T22:18:45.648Z"
+              "WhenOpened": "2026-04-23T22:18:45.648Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form Entrega.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Entrega.cs",
-              "RelativeDocumentMoniker": "Sistema-BoxHouse\\Form Entrega.cs",
-              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Entrega.cs [Design]",
-              "RelativeToolTip": "Sistema-BoxHouse\\Form Entrega.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-17T23:03:44.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "FormClientes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormClientes.cs",
               "RelativeDocumentMoniker": "Sistema-BoxHouse\\FormClientes.cs",
               "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormClientes.cs [Design]",
               "RelativeToolTip": "Sistema-BoxHouse\\FormClientes.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-11T00:44:39.222Z"
+              "WhenOpened": "2026-04-11T00:44:39.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormClientes.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Sistema-BoxHouse\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\FormClientes.cs",
+              "RelativeToolTip": "Sistema-BoxHouse\\FormClientes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA4wBoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T23:05:10.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form Venda.cs",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs",
+              "RelativeDocumentMoniker": "Sistema-BoxHouse\\Form Venda.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Venda.cs",
+              "RelativeToolTip": "Sistema-BoxHouse\\Form Venda.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:21:19.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form Entrega.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Entrega.cs",
+              "RelativeDocumentMoniker": "Sistema-BoxHouse\\Form Entrega.cs",
+              "ToolTip": "C:\\Users\\fabio.foliveira17\\source\\repos\\Sistema-BoxHouse\\Sistema-BoxHouse\\Form Entrega.cs [Design]",
+              "RelativeToolTip": "Sistema-BoxHouse\\Form Entrega.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T23:03:44.154Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
